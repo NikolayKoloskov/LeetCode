@@ -1,0 +1,8 @@
+
+K
+java:S1121".Extract the assignment out of this expression.(¿”8õıŸ‰2
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ˆJ$4dd81c08-5aa9-4ecd-9913-46c7621b6092
+L
+java:S1066"/Merge this if statement with the enclosing one.(çéˆá8õıŸ‰2
+W
+java:S1854":Remove this useless assignment to local variable "result".(¿”8õıŸ‰2

@@ -1,0 +1,18 @@
+
+“	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡‚ÚÍ8•½ø–‰2J$0b7e68f7-1d1b-4e0e-bad7-4c14318e11d7
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ˆ8–½ø–‰2J$0a5e5e7e-6ba1-424e-a46b-15575e6dfce6
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(œÿªúÿÿÿÿ8˜é’—‰2J$130e41f4-a99a-48b7-acc2-86e4d51ad8bd
+š
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Æ™û…üÿÿÿÿ8ÒµÊ—‰2J$3388a34e-7a7f-419b-9e17-97831bbf42af
+€
+java:S1659
+">Declare "k" and all following declarations on a separate line.(™™†28˜½ø–‰2J$18d740c0-e278-42ed-ad92-e7d9c411ab06
+h
+java:S1481
+"&Remove this unused "n" local variable.(™™†28ô¶£—‰2J$5d99238e-20fc-4ccf-a89c-b2487ad949c0
+a
+java:S2178"Correct this "&" to "&&".(°¸±Žúÿÿÿÿ8›ê©—‰2J$b1072209-3b1d-40b7-8daa-a17f3682bfaa
+\
+java:S2178"Correct this "&" to "&&".(‘ëÚè8›ê©—‰2J$c3277237-e47b-427b-a903-b8d98a700fbb
+r	java:S106-"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8˜½ø–‰2J$fabe6732-54e0-45c7-b872-f2b0a98e6ed0
+r	java:S106."+Replace this use of System.out by a logger.(Å´§¡ýÿÿÿÿ8˜½ø–‰2J$adda8d4f-aba2-4cf6-871e-6dfd160556a1
