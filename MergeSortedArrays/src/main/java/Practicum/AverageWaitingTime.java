@@ -9,7 +9,6 @@ public class AverageWaitingTime {
     public double averageWaitingTime(int[][] customers) {
         long startTimeOfCooking = 0;
         long endTime = 0;
-        ArrayList<Integer> waitingTime = new ArrayList<>();
         double totalTime = 0;
         for (int i = 0; i < customers.length; i++) {
             for (int j = 0; j < customers[i].length -1; j++) {
